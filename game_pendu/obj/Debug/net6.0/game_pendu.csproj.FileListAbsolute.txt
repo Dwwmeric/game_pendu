@@ -1,0 +1,16 @@
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\game_pendu.exe
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\game_pendu.deps.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\game_pendu.runtimeconfig.json
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\game_pendu.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\game_pendu.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.csproj.AssemblyReference.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.AssemblyInfoInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.AssemblyInfo.cs
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.csproj.CoreCompileInputs.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\refint\game_pendu.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.pdb
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\game_pendu.genruntimeconfig.cache
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\obj\Debug\net6.0\ref\game_pendu.dll
+C:\Users\peyrot\Desktop\projet en C#\formation\ûdemy\game_pendu\game_pendu\bin\Debug\net6.0\mots.txt
